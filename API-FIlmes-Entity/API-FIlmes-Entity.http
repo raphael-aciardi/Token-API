@@ -1,0 +1,6 @@
+@API_FIlmes_Entity_HostAddress = http://localhost:5104
+
+GET {{API_FIlmes_Entity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
