@@ -24,5 +24,17 @@
         <member name="M:API_FIlmes_Entity.Migrations.CriandoTabelaDeFilme.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:API_FIlmes_Entity.Migrations.Usuario.CriandoTabelaDeUsuarios">
+            <inheritdoc />
+        </member>
+        <member name="M:API_FIlmes_Entity.Migrations.Usuario.CriandoTabelaDeUsuarios.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:API_FIlmes_Entity.Migrations.Usuario.CriandoTabelaDeUsuarios.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:API_FIlmes_Entity.Migrations.Usuario.CriandoTabelaDeUsuarios.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>
